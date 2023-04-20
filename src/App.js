@@ -1,4 +1,4 @@
-import Drum from "./components/Drum";
+
 import "./App.css";
 import {useEffect, useState} from "react";
 
